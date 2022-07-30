@@ -1,4 +1,3 @@
-import PropTypes from "prop-types";
 import { FriendItem } from "./FriendListItem.styled";
 import { FriendStatus } from "./FriendListItem.styled";
 import { FriendAvatar } from "./FriendListItem.styled";
